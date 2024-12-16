@@ -1,4 +1,8 @@
 ## Hi there 👋
+## 技术栈
+前端全栈、Python、火山
+## 开发方向
+电商服务软件开发
 
 <!--
 **99101617/99101617** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
